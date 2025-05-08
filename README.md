@@ -1,6 +1,6 @@
 # Banking Data Analysis and Dashboard
 
-!(Dasboard)[./images/Banking Dashboard Home With Icons.png]
+![Dashboard](./images/Banking-Dashboard-Home-With-Icons.png)
 
 This Power BI project delivers an interactive dashboard to analyze banking metrics, including Loan, Deposits, customer segmentation, and revenue trends. Designed to support data-driven decision-making, it provides actionable insights for bank managers, analysts, and stakeholders through dynamic visualizations.
 
